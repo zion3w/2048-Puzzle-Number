@@ -56,4 +56,4 @@ In the realm of mobile gaming, the 2048 Puzzle Game stands as a testament to the
 
 ![2048 Puzzle App](./img/screen/2048-puzzle-3.jpg)
 
-#### [Play 2048 Puzzle Game](./game/index.html)
+#### [![Play 2048 Puzzle Number](./img/google-play-badge.png)](https://play.google.com/store/apps/details?id=site.z3w.numberPuzzle "Play 2048 Puzzle Number")
