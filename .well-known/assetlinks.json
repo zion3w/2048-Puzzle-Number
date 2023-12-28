@@ -1,0 +1,15 @@
+[
+	{
+		"relation": [
+			"delegate_permission/common.handle_all_urls"
+		],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "site.z3w.numberPuzzle",
+			"sha256_cert_fingerprints": [
+				"F6:CF:3F:FA:92:6F:E8:F8:C7:70:05:41:1B:3C:34:72:83:85:C7:44:2B:4C:AB:62:1F:65:CB:79:88:24:7A:0A",
+				"DC:1E:00:B0:21:3B:64:8E:79:C6:0C:E2:8C:4C:C8:27:90:01:6A:A9:F0:E3:C6:BC:4A:C7:78:3E:AC:78:E8:22"
+			]
+		}
+	}
+]
