@@ -25,4 +25,4 @@ So, how do you win at 2048? The key is to strategize your moves and plan ahead. 
 
 Since its release, 2048 has been played by millions of people worldwide and has even been featured in media outlets such as Forbes and The New York Times. Its simple yet challenging gameplay has made it a hit among puzzle game enthusiasts of all ages.
 
-[Play 2048 Puzzle]([./](https://play.google.com/store/apps/details?id=site.z3w.numberPuzzle)https://play.google.com/store/apps/details?id=site.z3w.numberPuzzle)
+[Play 2048 Puzzle]([https://play.google.com/store/apps/details?id=site.z3w.numberPuzzle](Play 2048 Puzzle)https://play.google.com/store/apps/details?id=site.z3w.numberPuzzle)
