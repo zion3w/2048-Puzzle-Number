@@ -1,4 +1,4 @@
-Game | 2048 Puzzle
+# 2048 Puzzle Merge Numbers Game
 
 [![Play 2048 Puzzle Number](./img/google-play-badge.png)](https://play.google.com/store/apps/details?id=site.z3w.numberPuzzle "Play 2048 Puzzle Number")
 
