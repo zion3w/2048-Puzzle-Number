@@ -7,8 +7,7 @@
 2048 Merge Puzzle
 ==================
 
-[2048 Puzzle Website](https://2048-puzzle.online/ "2048 Puzzle Website")
-[Play 2048 Puzzle](https://play.google.com/store/apps/details?id=site.z3w.numberPuzzle)
+[2048 Puzzle Website](https://2048-puzzle.online/ "Play 2048 Puzzle Free Online")
 
 In the dynamic world of mobile gaming, where innovation constantly pushes the boundaries of entertainment, one puzzle game has captured the hearts and minds of players worldwide – the _2048 Puzzle Game_. This digital brain teaser, known for its simplicity and strategic depth, has become a sensation, captivating users with its addictive gameplay and challenging mechanics.
 
